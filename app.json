@@ -1,0 +1,5 @@
+{
+  "name": "Merc Webserives Demo",
+  "description": "Webserives app",
+  "addons": [ "heroku-postgresql"]
+}
